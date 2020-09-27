@@ -1,4 +1,6 @@
 # UFO_Sightings_Analysis.
+The below questions are answered in the notebook.
+
 1. How is the trend of encounters?
 2. Which month we are likely to encounter a UFO?
 3. Which season has highest number of encounter?
