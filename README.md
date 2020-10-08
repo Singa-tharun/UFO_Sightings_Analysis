@@ -14,5 +14,5 @@ The below questions are answered in the notebook.
 6. Which country has highest number of encounters?
 7. What is the most common shape of UFO?
 
-Work is still in progress....
+Work is still in progress...
 
