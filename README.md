@@ -13,6 +13,7 @@ The below questions are answered in the notebook.
 5. Does duration encounters has changed over the years?
 6. Which country has highest number of encounters?
 7. What is the most common shape of UFO?
+8.When is the highest spike of encounter?
 
 Work is still in progress...
 
